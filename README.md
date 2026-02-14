@@ -2,7 +2,7 @@
 
 A lightweight ctypes wrapper. Wrote it because the PIMikroMove does
 not support older E-710 controller, the PITerminal does not work and
-pipython does not support it either, so I wrapped the DLL in Python.
+PIPython does not support it either, so I wrapped the DLL in Python.
 However, the DLL is not included, please get it from PI Software Suite:
 https://www.physikinstrumente.com/en/products/software-suite
 
