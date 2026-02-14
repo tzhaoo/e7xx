@@ -18,6 +18,9 @@ classifiers = [
     "Topic :: System :: Hardware :: Hardware Drivers",
 ]
 
+[project.urls]
+Homepage = "https://github.com/tzhaoo/e7xx"
+
 [tool.setuptools]
 package-dir = {"" = "src"}
 
