@@ -6,12 +6,6 @@ PIPython does not support it either, so I wrapped the DLL in Python.
 However, the DLL is not included, please get it from PI Software Suite:
 https://www.physikinstrumente.com/en/products/software-suite
 
-## Install
-
-```
-pip install e7xx
-```
-
 ## DLL setup
 
 Place `E7XX_GCS_DLL_x64.dll` or `E7XX_GCS_DLL.dll` in the current
